@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+
+.spyproject/*
+__pycache__/*
+Header/*
+Lib/*
+Scripts/*
+share/*
